@@ -5,3 +5,8 @@ curl -O https://raw.githubusercontent.com/syh0304/shell_tools/refs/heads/main/in
 or 
 curl -O https://raw.githubusercontent.com/syh0304/shell_tools/refs/heads/main/install-casaos_new_world.sh
 sudo bash install-casaos_new_world.sh
+# uninstall CasaOS scripts 20250922 19:16
+curl -O https://raw.githubusercontent.com/syh0304/shell_tools/refs/heads/main/uninstall_casaos.sh && sudo bash uninstall_casaos.sh
+or 
+curl -O https://raw.githubusercontent.com/syh0304/shell_tools/refs/heads/main/uninstall_casaos.sh 
+sudo bash uninstall_casaos.sh
